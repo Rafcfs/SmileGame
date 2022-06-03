@@ -1,0 +1,801 @@
+Using pre-set license
+Built from '2021.1/release' branch; Version is '2021.1.16f1 (5fa502fca597) revision 6268162'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1288; Version 2009; 64bit' Language: 'pt' Physical Memory: 24507 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Hub\Editor\2021.1.16f1\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+E:/smile/Alpha 117082021
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+59703
+Successfully changed project path to: E:/smile/Alpha 117082021
+E:/smile/Alpha 117082021
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 78.83 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2021.1.16f1 (5fa502fca597)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path E:/smile/Alpha 117082021/Assets
+GfxDevice: creating device client; threaded=0; jobified=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce GTX 1650 (ID=0x1f82)
+    Vendor:   NVIDIA
+    VRAM:     3962 MB
+    Driver:   30.0.14.9613
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56536
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Hub/Editor/2021.1.16f1/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.002057 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 80.94 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.170 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1170ms)
+		BeginReloadAssembly (61ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (0ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (1ms)
+		EndReloadAssembly (431ms)
+			LoadAssemblies (59ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (154ms)
+			ReleaseScriptCaches (0ms)
+			RebuildScriptCaches (27ms)
+			SetupLoadedEditorAssemblies (206ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (81ms)
+				BeforeProcessingInitializeOnLoad (1ms)
+				ProcessInitializeOnLoadAttributes (90ms)
+				ProcessInitializeOnLoadMethodAttributes (28ms)
+				AfterProcessingInitializeOnLoad (0ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (0ms)
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.003305 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.92 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.145 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1146ms)
+		BeginReloadAssembly (154ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (21ms)
+		EndReloadAssembly (934ms)
+			LoadAssemblies (90ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (336ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (48ms)
+			SetupLoadedEditorAssemblies (376ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (64ms)
+				ProcessInitializeOnLoadAttributes (292ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (8ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.08 seconds
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2987 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 110.1 MB.
+System memory in use after: 110.2 MB.
+
+Unloading 23 unused Assets to reduce memory usage. Loaded Objects now: 3435.
+Total: 3.245000 ms (FindLiveObjects: 0.287800 ms CreateObjectMapping: 0.071000 ms MarkObjects: 2.802400 ms  DeleteObjects: 0.082400 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/Materials/New Material.mat
+  artifactKey: Guid(cb14cbdcb0e331f40b85b264fc195d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/Materials/New Material.mat using Guid(cb14cbdcb0e331f40b85b264fc195d13) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6d874c42dc89b71b35ef461bfe6e2ed0') in 0.108600 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 11.216044 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj
+  artifactKey: Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj using Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b4ddae963915a317ae321bdcd0dcfccd') in 0.120508 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 387.424979 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj
+  artifactKey: Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj using Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a1b6f3705898e954fa75d33f67022b5') in 0.058184 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 80.972098 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj
+  artifactKey: Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj using Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3219dd89236d02eec223abe02f2fbe20') in 0.018927 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 167.686140 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/EnemyModel.FBX
+  artifactKey: Guid(f5f884e6f4d8dfa40958a184fc235e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/EnemyModel.FBX using Guid(f5f884e6f4d8dfa40958a184fc235e35) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5dda60032b2961a1907b3944a9bed4da') in 0.144106 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 18.420941 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj
+  artifactKey: Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj using Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6c26d870ea57daa7bae1a632f7c0823') in 0.061119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 40.475378 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj
+  artifactKey: Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj using Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7b0b7dff460fe2b087e321e7f6f5e478') in 0.061281 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 31.155590 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj
+  artifactKey: Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj using Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fff000dabcda59d87c17898c2518db8a') in 0.025098 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 190.361066 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/New Animator Controller.controller
+  artifactKey: Guid(27865e8319ef14f428831910e35ddfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/New Animator Controller.controller using Guid(27865e8319ef14f428831910e35ddfb1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '989d2266cd22013ba5c79c4123a79d8f') in 0.010349 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 88.303954 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj
+  artifactKey: Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/3.obj using Guid(c41103940e54be0498eefd8026a2a2fa) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd676a8c919a3d17ee5a2ba05e52206d6') in 0.043143 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1330.484240 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste.obj
+  artifactKey: Guid(5e0be240e1df7864aa1cd0e99e97e4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste.obj using Guid(5e0be240e1df7864aa1cd0e99e97e4cb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0b22b7cdcf89599791aba86d95d80f05') in 0.023554 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 120.328576 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste.fbx
+  artifactKey: Guid(7733f5170c11fda4eae8a2aa6e6a637e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste.fbx using Guid(7733f5170c11fda4eae8a2aa6e6a637e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7873d05c06fb0082a0c46698f00cd9a2') in 0.026978 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 59.813693 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste.fbx
+  artifactKey: Guid(7733f5170c11fda4eae8a2aa6e6a637e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste.fbx using Guid(7733f5170c11fda4eae8a2aa6e6a637e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '57bc8d9c642e9fe0436a888a286477ce') in 0.044258 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003732 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.69 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.062 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1062ms)
+		BeginReloadAssembly (140ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (863ms)
+			LoadAssemblies (111ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (322ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (36ms)
+			SetupLoadedEditorAssemblies (335ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (271ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (6ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2982 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.1 MB.
+System memory in use after: 114.3 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3481.
+Total: 3.199400 ms (FindLiveObjects: 0.269200 ms CreateObjectMapping: 0.080500 ms MarkObjects: 2.802400 ms  DeleteObjects: 0.045800 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 317.033033 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste.fbx
+  artifactKey: Guid(7733f5170c11fda4eae8a2aa6e6a637e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste.fbx using Guid(7733f5170c11fda4eae8a2aa6e6a637e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4b2c328acabb3956d157a2ec48f82a79') in 0.086271 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 357.657090 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/Enemy.fbx
+  artifactKey: Guid(7733f5170c11fda4eae8a2aa6e6a637e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/Enemy.fbx using Guid(7733f5170c11fda4eae8a2aa6e6a637e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8fabe9f9d1ad192f46fd5e51e2f23430') in 0.056324 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 1049.482590 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Ambient/Ambient01.wav
+  artifactKey: Guid(e342b43e422ec764bb3c10e6448ff505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Ambient/Ambient01.wav using Guid(e342b43e422ec764bb3c10e6448ff505) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '099826baa28f0a3867c36ca2020f2620') in 0.072653 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000196 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close01.wav
+  artifactKey: Guid(3baaa211365a4c84a96301e8bfe2165d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close01.wav using Guid(3baaa211365a4c84a96301e8bfe2165d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b9511c84c6bf24b46475470d99397136') in 0.015388 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000180 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close04.wav
+  artifactKey: Guid(f0565552657b7a145954734df935a3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close04.wav using Guid(f0565552657b7a145954734df935a3a3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee88fc264125c109fdea819b15e15c9a') in 0.024960 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/catchSound02.wav
+  artifactKey: Guid(369ad2237accb044cb9ce772b93f7929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/catchSound02.wav using Guid(369ad2237accb044cb9ce772b93f7929) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1bffb3699e68bac1bab93877245c4b3d') in 0.015755 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Ambient/Ambient_Danger.wav
+  artifactKey: Guid(542a9b5eddc6bf241a393b2e7cb3f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Ambient/Ambient_Danger.wav using Guid(542a9b5eddc6bf241a393b2e7cb3f21c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a46271f5be7e51789772ba8f38323b7e') in 0.022304 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/catchSound.wav
+  artifactKey: Guid(1622ed45c87dd7f4f81b0ed48c185fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/catchSound.wav using Guid(1622ed45c87dd7f4f81b0ed48c185fde) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f1bf664e2fd782440f46198ba28de0dc') in 0.027171 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000167 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close02.wav
+  artifactKey: Guid(89f6652c0ea9ba44e8f1a2b63f78d66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close02.wav using Guid(89f6652c0ea9ba44e8f1a2b63f78d66c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a77b9e6390c6bdfefbed43a899f5fb91') in 0.016506 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000405 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close03.wav
+  artifactKey: Guid(6850ca09513d6b1418d96d84a2385b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close03.wav using Guid(6850ca09513d6b1418d96d84a2385b6f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a07b1f5fc6567a7db154832692a6d2f6') in 0.026634 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 2.263535 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close05.wav
+  artifactKey: Guid(623b0243dbea41a4ba5246c3f535faa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/CloseSounds/door_close05.wav using Guid(623b0243dbea41a4ba5246c3f535faa4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '31d22dcd169fd400f5ec3d728c2d6597') in 0.028794 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000161 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open01.wav
+  artifactKey: Guid(669fd83df214f464f9faff5306af9312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open01.wav using Guid(669fd83df214f464f9faff5306af9312) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '837e3909729070389280f132016fd8d7') in 0.036055 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000154 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open02.wav
+  artifactKey: Guid(9e97cc19b56280f40b685f40b2b81f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open02.wav using Guid(9e97cc19b56280f40b685f40b2b81f76) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b28c4c0cb919bfeb87ae4db4e6e7ad6e') in 0.039367 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000185 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open04.wav
+  artifactKey: Guid(e1c450736c633554cb6dab03307e9001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open04.wav using Guid(e1c450736c633554cb6dab03307e9001) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '448fc39cb380c5d75c2c5ed42d11b94f') in 0.031582 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000164 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open03.wav
+  artifactKey: Guid(2d96bab3650c44942a069843f65d400c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open03.wav using Guid(2d96bab3650c44942a069843f65d400c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2495203546a2de65f2a07feb41882ca') in 0.049288 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000173 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open05.wav
+  artifactKey: Guid(75de23af58424ad4d8989fc8c264f06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/OpenSounds/door_open05.wav using Guid(75de23af58424ad4d8989fc8c264f06a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '11146a5169e775826635e909f2145e4e') in 0.033918 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.123809 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/Unlock/door_unlock01.wav
+  artifactKey: Guid(f4b7577c56e48b641a02e25632ff828f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Doors/Unlock/door_unlock01.wav using Guid(f4b7577c56e48b641a02e25632ff828f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '33a7702fc36cbb1f54707426c7954875') in 0.020873 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000204 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Drawer/drawer_close.wav
+  artifactKey: Guid(796b4da2cf735c4448f407bfb055f8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Drawer/drawer_close.wav using Guid(796b4da2cf735c4448f407bfb055f8d7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3660530749d2d7d2a0327e60f0e7e473') in 0.017067 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/followBreath.wav
+  artifactKey: Guid(4fb3f2474cc430946bdd948a7e302a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/followBreath.wav using Guid(4fb3f2474cc430946bdd948a7e302a4c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8041518ebfe3267b3334f81a076fe1eb') in 0.022614 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000178 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep02.wav
+  artifactKey: Guid(702e821a84fca7446bd767dd1d5c3d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep02.wav using Guid(702e821a84fca7446bd767dd1d5c3d88) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '67f06de6d45ac215190b4a55c42c816b') in 0.024753 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000152 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep04.wav
+  artifactKey: Guid(6d4505cefa4c9ae42b2ad31187573c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep04.wav using Guid(6d4505cefa4c9ae42b2ad31187573c49) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fe533a7f5e5ca40fb5edfa03e34bdc3') in 0.015315 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000149 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep01.wav
+  artifactKey: Guid(169792f4258bc5543931280df81c8ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep01.wav using Guid(169792f4258bc5543931280df81c8ce1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6756b635683954b3aaf549fe4ffe271a') in 0.022605 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000176 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Drawer/drawer_open.wav
+  artifactKey: Guid(60896e9f775190443ad841030a29431f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Drawer/drawer_open.wav using Guid(60896e9f775190443ad841030a29431f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7c7260b2e5f7a1d89bcf5de2be6320') in 0.025260 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000140 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep03.wav
+  artifactKey: Guid(40320d8731985f244a8d0579d5e8b057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep03.wav using Guid(40320d8731985f244a8d0579d5e8b057) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4e52313317b9ad9abfe594280bab3de9') in 0.017220 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.241416 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep05.wav
+  artifactKey: Guid(379fceb4911812d4dad8435cbe5fe59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep05.wav using Guid(379fceb4911812d4dad8435cbe5fe59e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9901f0fefb865a43be2e3367d41e4a8c') in 0.018104 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000162 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep06.wav
+  artifactKey: Guid(c75edd8a364e4b84e829be9248b4f12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep06.wav using Guid(c75edd8a364e4b84e829be9248b4f12d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '458c5cd133baeff9090c6f6a1aa5d417') in 0.025008 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000177 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Colliding/GlassItemFall.wav
+  artifactKey: Guid(c2038e14a2a717845a004ca081e7ef05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Colliding/GlassItemFall.wav using Guid(c2038e14a2a717845a004ca081e7ef05) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c32da2aaa1931e6c00ad2fce56e9ca36') in 0.014956 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000203 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Pickup/GlassItemPickup.wav
+  artifactKey: Guid(3ef4e5c041eb2ad48930a9a6c83417b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Pickup/GlassItemPickup.wav using Guid(3ef4e5c041eb2ad48930a9a6c83417b3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '52ad787baa304c8c48c47b255311a9f3') in 0.030207 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000142 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/hitSound.wav
+  artifactKey: Guid(e447b16fea033cf4c9f7bf818caf33d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/hitSound.wav using Guid(e447b16fea033cf4c9f7bf818caf33d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc277c3ffa639b6fa7542b0eec1a1feb') in 0.023389 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000147 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/HidePlace/HideUnderBed.wav
+  artifactKey: Guid(592bee91096a8b64f84ac5ef6901a34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/HidePlace/HideUnderBed.wav using Guid(592bee91096a8b64f84ac5ef6901a34f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fe9c3c71daeda135d53af5454f658044') in 0.028762 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000137 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Colliding/HavyItemFall.wav
+  artifactKey: Guid(321e7701a1f28df429b47d6b7bd1c172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Colliding/HavyItemFall.wav using Guid(321e7701a1f28df429b47d6b7bd1c172) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0607523917e19a2e9463d9f3a7250d2a') in 0.014704 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000195 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep07.wav
+  artifactKey: Guid(9bbfdb15906c40042a9e8b9bb25fe1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Enemy/FootStep07.wav using Guid(9bbfdb15906c40042a9e8b9bb25fe1ac) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '602c2286568674369c7721c5f60d2f32') in 0.015154 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.131593 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/idleBreath.wav
+  artifactKey: Guid(abcdfebfae0ebee4bb621bbbfd55ef44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Enemy/idleBreath.wav using Guid(abcdfebfae0ebee4bb621bbbfd55ef44) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8bea3de3869498117e8bd7949c4bc7b6') in 0.056901 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000158 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Pickup/ItemPickup01.wav
+  artifactKey: Guid(92e2a291ec6d81742931284558a16cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Pickup/ItemPickup01.wav using Guid(92e2a291ec6d81742931284558a16cf5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd5e1924156acd3071a32a6f1d3876a4a') in 0.020845 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000171 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Pickup/KeyPickup.wav
+  artifactKey: Guid(8f685421b445a464e8f2d570287cd900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Pickup/KeyPickup.wav using Guid(8f685421b445a464e8f2d570287cd900) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '445b667aee3d0fd531113e3edbbe4ffd') in 0.026178 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000190 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/HidePlace/UnhideFromBed.wav
+  artifactKey: Guid(ebd517ae144e1a34083254d99c3e6248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/HidePlace/UnhideFromBed.wav using Guid(ebd517ae144e1a34083254d99c3e6248) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3d87963577d72f09829efa1027a1fd31') in 0.020944 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000251 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Break/WoodPlankBreak.wav
+  artifactKey: Guid(875a6a6e986ee83488bb59b3e0f1001c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Interact/Break/WoodPlankBreak.wav using Guid(875a6a6e986ee83488bb59b3e0f1001c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '497563b3a802efe5f44e2d30a5828070') in 0.018498 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/Player/Damage/LegBreak.wav
+  artifactKey: Guid(5b974e2b2ba7bbf4bba73f03dccf0eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/Player/Damage/LegBreak.wav using Guid(5b974e2b2ba7bbf4bba73f03dccf0eba) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8217f33a203235c5c9055486b8729f1a') in 0.038327 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.483110 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep01.wav
+  artifactKey: Guid(cf19e3aafcbe3914bb75fb26dab03e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep01.wav using Guid(cf19e3aafcbe3914bb75fb26dab03e70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ed852b6d6f5207ef9c318a548b572903') in 0.027801 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000172 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep04.wav
+  artifactKey: Guid(7fa14cd6d175e3e448a24b3f64b1f292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep04.wav using Guid(7fa14cd6d175e3e448a24b3f64b1f292) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f7fff6b238fddf0865a84d3659586cf9') in 0.014776 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000217 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep02.wav
+  artifactKey: Guid(cc5316cd722540f49bdb9a74a7cdfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep02.wav using Guid(cc5316cd722540f49bdb9a74a7cdfcb2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1cc218da397f0adcb5fb1ba42e88b700') in 0.019119 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000206 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep05.wav
+  artifactKey: Guid(d1e42e7dd2e034d4babbe7c24daaba00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep05.wav using Guid(d1e42e7dd2e034d4babbe7c24daaba00) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '69da2d96103c8a061e7d9765f484260c') in 0.015908 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000175 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep06.wav
+  artifactKey: Guid(0b59da429898fad48a9b071717300cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep06.wav using Guid(0b59da429898fad48a9b071717300cd5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '14ebf2016573e4a15e7a0b5579473adb') in 0.019085 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep07.wav
+  artifactKey: Guid(08d2410ffb0e7eb45a0aae05abae6c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep07.wav using Guid(08d2410ffb0e7eb45a0aae05abae6c69) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9924ac93686a551cd64b897a86e6c934') in 0.019610 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep03.wav
+  artifactKey: Guid(ecf5f4a08ce52c140803e8edb48dba6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Sounds/FootSteps/Player/WoodStep03.wav using Guid(ecf5f4a08ce52c140803e8edb48dba6d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '607be3d7e5091c213264d2b63035cc10') in 0.016017 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 62.697630 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/risada.mp3
+  artifactKey: Guid(80d9dcbcd2020274abb20898ebfc665c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/risada.mp3 using Guid(80d9dcbcd2020274abb20898ebfc665c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c08f2952b2954f7ed326fcd9b893d9be') in 0.016716 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.003458 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.78 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.060 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1061ms)
+		BeginReloadAssembly (114ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (39ms)
+		EndReloadAssembly (887ms)
+			LoadAssemblies (87ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (330ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (348ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (48ms)
+				ProcessInitializeOnLoadAttributes (282ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.3 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3488.
+Total: 3.708600 ms (FindLiveObjects: 0.347800 ms CreateObjectMapping: 0.103600 ms MarkObjects: 3.203400 ms  DeleteObjects: 0.052600 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 469.618108 seconds.
+  path: Assets/HorrorHideAndSeek/Standard Assets
+  artifactKey: Guid(c6195a43a0187a34e9c6be23520d3766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/Standard Assets using Guid(c6195a43a0187a34e9c6be23520d3766) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4ec5e0483a686bb121869a0f691033bb') in 0.023444 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004296 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.70 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.106 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1106ms)
+		BeginReloadAssembly (127ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (4ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (38ms)
+		EndReloadAssembly (911ms)
+			LoadAssemblies (110ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (348ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (37ms)
+			SetupLoadedEditorAssemblies (342ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (49ms)
+				ProcessInitializeOnLoadAttributes (276ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (7ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.3 MB.
+System memory in use after: 114.5 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3491.
+Total: 3.358700 ms (FindLiveObjects: 0.264200 ms CreateObjectMapping: 0.072300 ms MarkObjects: 2.894900 ms  DeleteObjects: 0.126500 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.004822 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.71 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.032 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1032ms)
+		BeginReloadAssembly (117ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (5ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (37ms)
+		EndReloadAssembly (852ms)
+			LoadAssemblies (93ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (308ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (38ms)
+			SetupLoadedEditorAssemblies (333ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (5ms)
+				SetLoadedEditorAssemblies (0ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (47ms)
+				ProcessInitializeOnLoadAttributes (269ms)
+				ProcessInitializeOnLoadMethodAttributes (4ms)
+				AfterProcessingInitializeOnLoad (7ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.4 MB.
+System memory in use after: 114.6 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3494.
+Total: 3.201600 ms (FindLiveObjects: 0.286000 ms CreateObjectMapping: 0.070500 ms MarkObjects: 2.794900 ms  DeleteObjects: 0.049300 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+========================================================================
+Received Import Request.
+  Time since last request: 20429.643045 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste2.fbx
+  artifactKey: Guid(f8ba3acd6fb789c46be24fac4c93192e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste2.fbx using Guid(f8ba3acd6fb789c46be24fac4c93192e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '78182f9b30c099ce0ee984296fc13e97') in 0.392516 seconds 
+========================================================================
+Received Import Request.
+  Time since last request: 133.373343 seconds.
+  path: Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste2.fbx
+  artifactKey: Guid(f8ba3acd6fb789c46be24fac4c93192e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/HorrorHideAndSeek/HHS Project/Models/Characters/Enemy/teste2.fbx using Guid(f8ba3acd6fb789c46be24fac4c93192e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9fbf033164de9774f68a4b528621e9c8') in 0.136272 seconds 
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.133713 seconds.
+Begin MonoManager ReloadAssembly
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\YamlDotNet\Unity.VisualScripting.YamlDotNet.dll
+Symbol file LoadedFromMemory doesn't match image E:\smile\Alpha 117082021\Library\PackageCache\com.unity.visualscripting@1.6.1\Editor\VisualScripting.Core\Dependencies\DotNetZip\Unity.VisualScripting.IonicZip.dll
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 1.30 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.329 seconds
+Domain Reload Profiling:
+	ReloadAssembly (1330ms)
+		BeginReloadAssembly (205ms)
+			ExecutionOrderSort (0ms)
+			DisableScriptedObjects (7ms)
+			BackupInstance (0ms)
+			ReleaseScriptingObjects (0ms)
+			CreateAndSetChildDomain (95ms)
+		EndReloadAssembly (1054ms)
+			LoadAssemblies (124ms)
+			RebuildTransferFunctionScriptingTraits (0ms)
+			SetupTypeCache (405ms)
+			ReleaseScriptCaches (1ms)
+			RebuildScriptCaches (44ms)
+			SetupLoadedEditorAssemblies (399ms)
+				LogAssemblyErrors (0ms)
+				InitializePlatformSupportModulesInManaged (6ms)
+				SetLoadedEditorAssemblies (1ms)
+				RefreshPlugins (1ms)
+				BeforeProcessingInitializeOnLoad (59ms)
+				ProcessInitializeOnLoadAttributes (318ms)
+				ProcessInitializeOnLoadMethodAttributes (5ms)
+				AfterProcessingInitializeOnLoad (10ms)
+				EditorAssembliesLoaded (0ms)
+			ExecutionOrderSort2 (0ms)
+			AwakeInstancesAfterBackupRestoration (8ms)
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.75 ms, found 3 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 2983 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 114.9 MB.
+System memory in use after: 115.1 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 3498.
+Total: 4.292100 ms (FindLiveObjects: 0.340700 ms CreateObjectMapping: 0.089200 ms MarkObjects: 3.802600 ms  DeleteObjects: 0.058000 ms)
+
+AssetImportParameters requested are different than current active one (requested -> active):
+  custom:framework-win-MediaFoundation: 216162199b28c13a410421893ffa2e32 -> 
+  custom:video-decoder-ogg-theora: a1e56fd34408186e4bbccfd4996cb3dc -> 
+  custom:container-muxer-webm: aa71ff27fc2769a1b78a27578f13a17b -> 
+  custom:container-demuxer-webm: 4f35f7cbe854078d1ac9338744f61a02 -> 
+  custom:container-demuxer-ogg: 62fdf1f143b41e24485cea50d1cbac27 -> 
+  custom:video-encoder-webm-vp8: eb34c28f22e8b96e1ab97ce403110664 -> 
+  custom:video-codec-MediaFoundation-h265: e54d7ab0439102e2317fc1e4b246158d -> 
+  custom:video-decoder-webm-vp8: 9c59270c3fd7afecdb556c50c9e8de78 -> 
+  custom:audio-decoder-ogg-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+  custom:audio-encoder-webm-vorbis: bf7c407c2cedff20999df2af8eb42d56 -> 
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
